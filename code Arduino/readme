@@ -1,3 +1,2 @@
 Le dossier "COMPTEUR_simple" contient le fichier "COMPTEUR_simple.ino" et le fichier "DS1307.h"
-Ces fichiers doivent être conservés dans le même dossier, au même niveau, sans modification de leur noms
-Sans cela, des erreurs de compilation se produiront
+Ces fichiers doivent être conservés dans le même dossier, au même niveau, sans modification de leurs noms (-> erreurs de compilation)
